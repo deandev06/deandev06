@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dean den Dunnen
+- 👀 I’m interested in learning, going to the gym and gaming. 
+- 🌱 I’m currently learning php,java,symfony,struts2 and much more!
+- 📫 How to reach me : deanddworkmail@gmail.com
